@@ -1,0 +1,22 @@
+{
+  "name": "@kjots/eslint-issue-no-implied-eval-exec-script",
+  "version": "1.0.0",
+  "description": "ESLint issue: no-implied-eval with non-global execScript()",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjots/eslint-issue-no-implied-eval-exec-script.git"
+  },
+  "author": "Karl Juri Ots <kjots@kjots.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kjots/eslint-issue-no-implied-eval-exec-script/issues"
+  },
+  "homepage": "https://github.com/kjots/eslint-issue-no-implied-eval-exec-script#readme",
+  "devDependencies": {
+    "eslint": "^9.30.1"
+  }
+}
